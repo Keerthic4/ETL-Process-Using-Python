@@ -8,3 +8,6 @@ In this project we will focus on Extract, Transform and Load (ETL) process by us
 
 * Visualize and query the database for specific records
 
+<img width="416" alt="etl" src="https://user-images.githubusercontent.com/71408369/119578622-e03a8480-bd8a-11eb-98b5-0510b91a2d16.png">
+<img width="407" alt="etl2" src="https://user-images.githubusercontent.com/71408369/119578627-e2044800-bd8a-11eb-9ff9-34d7cbcf0e8c.png">
+
